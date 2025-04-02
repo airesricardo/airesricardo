@@ -4,3 +4,7 @@ I started learning to code just a week ago, but I already feel like I made lots 
 I love writing, drawing, learning new languages, playing the piano, and working out. <br><br>
 Hope you like my profile!  😎
 
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=airesricardo&show_icons=true&theme=transparent)
+
+
+
