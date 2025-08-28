@@ -1,6 +1,6 @@
 ### 👋 Olá, pessoal! Me chamo Paulo Ricardo.
 
-<p>Sou estudante de *Sistemas de Computação na UFF*, com foco em me tornar um programador no futuro.</p>
+<p>Sou estudante de Sistemas de Computação na UFF, com foco em me tornar um programador no futuro.</p>
 
 - 🎮 Desde criança, sempre gostei de usar computadores para jogar e navegar na internet.
 - 💡 Hoje, com uma mente mais madura, percebi que esse gosto poderia se transformar em trabalho.
